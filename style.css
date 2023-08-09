@@ -2,12 +2,12 @@
 
 @font-face {
   font-family: "LEMONMILK";
-  src: url("/fonts/Lemon-Milk-Pro-Medium.ttf");
+  src: url("fonts/Lemon-Milk-Pro-Medium.ttf");
 }
 
 @font-face {
     font-family: "DEXAPRO";
-    src: url("/fonts/Fontspring-DEMO-dexapro-700-bold.otf");
+    src: url("fonts/Fontspring-DEMO-dexapro-700-bold.otf");
 }
 
 /* MAIN BLOCK */
@@ -178,7 +178,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .main-picture{
-    background-image: url('/image/background-shape.png');
+    background-image: url('image/background-shape.png');
     background-size: 600px;
     background-repeat: no-repeat;
     background-position: center 60px;
